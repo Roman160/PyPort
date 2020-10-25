@@ -1,2 +1,2 @@
 # PyPort
-Python Port Scanner and functions 
+Python Port Scanner
